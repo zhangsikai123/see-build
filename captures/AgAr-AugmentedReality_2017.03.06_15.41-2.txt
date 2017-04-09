@@ -1,0 +1,169 @@
+Applications Memory Usage (kB):
+Uptime: 14748695 Realtime: 20109349
+
+Total PSS by process:
+    99729 kB: com.android.systemui (pid 922)
+    84804 kB: com.google.android.googlequicksearchbox (pid 1589 / activities)
+    77785 kB: system (pid 777)
+    62864 kB: com.google.android.gms (pid 1406)
+    57205 kB: com.google.android.gms.persistent (pid 1237)
+    39843 kB: com.google.android.googlequicksearchbox:search (pid 1707)
+    25158 kB: com.google.android.gm (pid 2807)
+    24830 kB: com.android.vending (pid 1731)
+    24661 kB: com.google.android.apps.photos (pid 11224)
+    23878 kB: com.rsupport.mvagent (pid 4133)
+    23052 kB: surfaceflinger (pid 190)
+    18832 kB: com.google.android.talk (pid 9628)
+    18247 kB: com.android.phone (pid 1568)
+    12799 kB: com.google.android.inputmethod.pinyin (pid 1503)
+    11822 kB: com.google.android.apps.plus (pid 11174)
+    11675 kB: com.android.nfc (pid 1556)
+    11041 kB: com.rsupport.mvagent:widget (pid 2325)
+    10935 kB: com.android.bluetooth (pid 1987)
+    10508 kB: com.android.chrome (pid 3884)
+     9943 kB: com.feng.droid.tutu (pid 3658)
+     9263 kB: com.google.android.apps.gcs (pid 9679)
+     8552 kB: android.process.media (pid 939)
+     8469 kB: mediaserver (pid 198)
+     7341 kB: android.process.acore (pid 9760)
+     6659 kB: com.google.android.googlequicksearchbox:interactor (pid 1486)
+     5309 kB: mm-qcamera-daemon (pid 212)
+     5171 kB: com.google.process.gapps (pid 1106)
+     5012 kB: zygote (pid 210)
+     3542 kB: com.redbend.vdmc (pid 1389)
+     2874 kB: com.qualcomm.qcrilmsgtunnel (pid 2786)
+     2693 kB: logd (pid 147)
+     2361 kB: rild (pid 196)
+     1740 kB: drmserver (pid 197)
+     1515 kB: wpa_supplicant (pid 979)
+     1454 kB: sensors.qcom (pid 205)
+     1296 kB: sdcard (pid 907)
+     1098 kB: thermal-engine-hh (pid 209)
+      988 kB: vold (pid 148)
+      975 kB: netd (pid 194)
+      719 kB: /init (pid 1)
+      637 kB: keystore (pid 201)
+      604 kB: adbd (pid 214)
+      575 kB: netmgrd (pid 204)
+      544 kB: time_daemon (pid 213)
+      541 kB: qmuxd (pid 203)
+      520 kB: installd (pid 199)
+      514 kB: gatekeeperd (pid 211)
+      490 kB: ueventd (pid 131)
+      464 kB: bridgemgrd (pid 202)
+      453 kB: rmt_storage (pid 191)
+      452 kB: healthd (pid 187)
+      406 kB: logcat (pid 6763)
+      406 kB: logcat (pid 6804)
+      386 kB: logcat (pid 5460)
+      384 kB: mpdecision (pid 1993)
+      369 kB: dumpsys (pid 7840)
+      348 kB: servicemanager (pid 189)
+      348 kB: qseecomd (pid 225)
+      311 kB: lmkd (pid 188)
+      297 kB: debuggerd (pid 195)
+      268 kB: logcat (pid 7328)
+      268 kB: logcat (pid 7347)
+      228 kB: qseecomd (pid 192)
+
+Total PSS by OOM adjustment:
+    66494 kB: Native
+               23052 kB: surfaceflinger (pid 190)
+                8469 kB: mediaserver (pid 198)
+                5309 kB: mm-qcamera-daemon (pid 212)
+                5012 kB: zygote (pid 210)
+                2693 kB: logd (pid 147)
+                2361 kB: rild (pid 196)
+                1740 kB: drmserver (pid 197)
+                1515 kB: wpa_supplicant (pid 979)
+                1454 kB: sensors.qcom (pid 205)
+                1296 kB: sdcard (pid 907)
+                1098 kB: thermal-engine-hh (pid 209)
+                 988 kB: vold (pid 148)
+                 975 kB: netd (pid 194)
+                 719 kB: /init (pid 1)
+                 637 kB: keystore (pid 201)
+                 604 kB: adbd (pid 214)
+                 575 kB: netmgrd (pid 204)
+                 544 kB: time_daemon (pid 213)
+                 541 kB: qmuxd (pid 203)
+                 520 kB: installd (pid 199)
+                 514 kB: gatekeeperd (pid 211)
+                 490 kB: ueventd (pid 131)
+                 464 kB: bridgemgrd (pid 202)
+                 453 kB: rmt_storage (pid 191)
+                 452 kB: healthd (pid 187)
+                 406 kB: logcat (pid 6763)
+                 406 kB: logcat (pid 6804)
+                 386 kB: logcat (pid 5460)
+                 384 kB: mpdecision (pid 1993)
+                 369 kB: dumpsys (pid 7840)
+                 348 kB: servicemanager (pid 189)
+                 348 kB: qseecomd (pid 225)
+                 311 kB: lmkd (pid 188)
+                 297 kB: debuggerd (pid 195)
+                 268 kB: logcat (pid 7328)
+                 268 kB: logcat (pid 7347)
+                 228 kB: qseecomd (pid 192)
+    77785 kB: System
+               77785 kB: system (pid 777)
+   133193 kB: Persistent
+               99729 kB: com.android.systemui (pid 922)
+               18247 kB: com.android.phone (pid 1568)
+               11675 kB: com.android.nfc (pid 1556)
+                3542 kB: com.redbend.vdmc (pid 1389)
+    10935 kB: Persistent Service
+               10935 kB: com.android.bluetooth (pid 1987)
+    84804 kB: Foreground
+               84804 kB: com.google.android.googlequicksearchbox (pid 1589 / activities)
+    63864 kB: Visible
+               57205 kB: com.google.android.gms.persistent (pid 1237)
+                6659 kB: com.google.android.googlequicksearchbox:interactor (pid 1486)
+    12799 kB: Perceptible
+               12799 kB: com.google.android.inputmethod.pinyin (pid 1503)
+   145262 kB: B Services
+               62864 kB: com.google.android.gms (pid 1406)
+               25158 kB: com.google.android.gm (pid 2807)
+               24830 kB: com.android.vending (pid 1731)
+               11041 kB: com.rsupport.mvagent:widget (pid 2325)
+                9943 kB: com.feng.droid.tutu (pid 3658)
+                8552 kB: android.process.media (pid 939)
+                2874 kB: com.qualcomm.qcrilmsgtunnel (pid 2786)
+   151319 kB: Cached
+               39843 kB: com.google.android.googlequicksearchbox:search (pid 1707)
+               24661 kB: com.google.android.apps.photos (pid 11224)
+               23878 kB: com.rsupport.mvagent (pid 4133)
+               18832 kB: com.google.android.talk (pid 9628)
+               11822 kB: com.google.android.apps.plus (pid 11174)
+               10508 kB: com.android.chrome (pid 3884)
+                9263 kB: com.google.android.apps.gcs (pid 9679)
+                7341 kB: android.process.acore (pid 9760)
+                5171 kB: com.google.process.gapps (pid 1106)
+
+Total PSS by category:
+   193787 kB: Dalvik
+   140649 kB: Native
+   127693 kB: .dex mmap
+    91200 kB: EGL mtrack
+    48412 kB: .so mmap
+    27037 kB: .art mmap
+    24769 kB: .apk mmap
+    24740 kB: .oat mmap
+    23193 kB: Dalvik Other
+    15636 kB: Gfx dev
+    10218 kB: Other mmap
+     8456 kB: Stack
+     7074 kB: Unknown
+     3128 kB: Ashmem
+      278 kB: .ttf mmap
+      173 kB: Other dev
+       12 kB: Cursor
+        0 kB: .jar mmap
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 1899508 kB (status normal)
+ Free RAM: 1099479 kB (151319 cached pss + 899780 cached kernel + 48380 free)
+ Used RAM: 682472 kB (595136 used pss + 87336 kernel)
+ Lost RAM: 117557 kB
+   Tuning: 192 (large 512), oom 184320 kB, restore limit 61440 kB (high-end-gfx)
