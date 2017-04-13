@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.rogueapps.aggar.BeyondarExamples"
+    tools:context="com.rogueapps.aggar.activities.MainActivity"
     tools:showIn="@layout/app_bar_main">
 
     <fragment
@@ -14,5 +14,10 @@
         android:name="com.beyondar.android.fragment.BeyondarFragmentSupport"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-
+    <Button
+        android:id="@+id/showMapButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:text="Show map" />
 </FrameLayout>

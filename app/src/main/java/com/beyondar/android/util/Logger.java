@@ -28,7 +28,7 @@ public class Logger {
 	public volatile static boolean DEBUG = true;
 
 	/**
-	 * Set this flagori to enable the OpenGL debug log. If You use this, the touch
+	 * Set this flag to enable the OpenGL debug log. If You use this, the touch
 	 * events will not work! use only to debug the openGL Draw stuff
 	 */
 	public static boolean DEBUG_OPENGL = false;

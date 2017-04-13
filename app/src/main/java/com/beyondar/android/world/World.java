@@ -51,7 +51,6 @@ public class World implements Plugable<WorldPlugin> {
 	private Object mLock = new Object();
 
 	private List<BeyondarObjectList> mBeyondarObjectLists;
-	private List<GeoObject> mGeoObjectLists;
 	private double mLongitude, mLatitude, mAltitude;
 
 	private Context mContext;

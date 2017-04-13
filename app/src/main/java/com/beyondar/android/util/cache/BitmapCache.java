@@ -92,7 +92,7 @@ public class BitmapCache {
 		/**
 		 * Initialize the cache object. The maximum size of this cache is needed
 		 * (in Bytes). <br>
-		 * The flagori alwaysPurge is needed to specify the cache if it is needed
+		 * The flag alwaysPurge is needed to specify the cache if it is needed
 		 * to recycle the Bitmap when this is removed form the cache. If the
 		 * bitmap is not removed, the bitmap will get lost in the memory and it
 		 * could cause some memory issues: (java.lang.OutOfMemoryError: bitmap
