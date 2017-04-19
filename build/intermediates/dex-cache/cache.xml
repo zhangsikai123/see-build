@@ -3,1911 +3,651 @@
 
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/src/main/java/com/lib/android-support-v4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_5b3dd46171f62322caf9942c0d031467ed9a08ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2b43a44a49cfd550431af6de9a4507bedbbe1ab9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.1_591646bb8c7d95c172e98fb5135a73112ea85002/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b88e7b8e4745782f18131e4022e0bcb77cb0e126/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.1_88c4abe74b521986e404c486c22aad064e0b3f9c/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b88e7b8e4745782f18131e4022e0bcb77cb0e126.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_bd0224a12ec1a0a7a6369b4d0922b2afa63c6436/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.2.1_37d7e4153b5ba92e635266e4cbe9c976afa32f2c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.2.1_88c4abe74b521986e404c486c22aad064e0b3f9c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.1_caa13149a1c08c4c0911e7bc66906e482dc0156e/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_bd0224a12ec1a0a7a6369b4d0922b2afa63c6436.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.1_9cbc1610277baf66eac8fc87a5fb9561a8726122/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.1_4e1fe1456931885daef46b6ae210ec904ddc9407/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6c587cbc4b10f9234648a0e0a142c3524f4cfe26/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6c587cbc4b10f9234648a0e0a142c3524f4cfe26.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4e684205744f814a73b7752545e0661330415c9e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.2.1_441259f9dff3e2e0cc861fb7e2afe7b897f67d4c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_bd0224a12ec1a0a7a6369b4d0922b2afa63c6436/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.2.1_33dc8d2457394bbc5a745208bb129a96c00934b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bb115a110992b254f767f337da233071f6f940b8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.1_fc659c4004c782a70eefd3443e3da1ed2949b2a0.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.1_d6aec2faabf73ad6599e0121de1b4c8790c66284/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bb115a110992b254f767f337da233071f6f940b8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.1_fc659c4004c782a70eefd3443e3da1ed2949b2a0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.1_d4136c6be2d4069562e8c8e834bc79fbf7db2062/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.1_d6aec2faabf73ad6599e0121de1b4c8790c66284.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.2.1_591646bb8c7d95c172e98fb5135a73112ea85002.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.1_598d979f1352384772a9b1aa3d2ec9aa85591a31/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.1_33dc8d2457394bbc5a745208bb129a96c00934b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.2.1_d4136c6be2d4069562e8c8e834bc79fbf7db2062.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.1_e978f08475592122e0efc29ce6add2bd67e54aec/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/src/main/java/com/lib/android-support-v4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/android-support-v4_5b3dd46171f62322caf9942c0d031467ed9a08ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.1_88d1527bf116db0395a412fd5a24e3eb5a3516d4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.2.1_e978f08475592122e0efc29ce6add2bd67e54aec.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6f133da5bb1a4ff81c14d0f631019646f4c1a35c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/src/main/java/com/lib/android-support-v4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_5b3dd46171f62322caf9942c0d031467ed9a08ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_6f133da5bb1a4ff81c14d0f631019646f4c1a35c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.1_88d1527bf116db0395a412fd5a24e3eb5a3516d4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.1_9cbc1610277baf66eac8fc87a5fb9561a8726122/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b88e7b8e4745782f18131e4022e0bcb77cb0e126/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.2.1_4e1fe1456931885daef46b6ae210ec904ddc9407.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.1_4e1fe1456931885daef46b6ae210ec904ddc9407/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.1_9cbc1610277baf66eac8fc87a5fb9561a8726122.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6c587cbc4b10f9234648a0e0a142c3524f4cfe26/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_147a56cb71fef3d92217d3bb31a6ec341a070ce3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.1_33dc8d2457394bbc5a745208bb129a96c00934b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.1_2a24cdf0517f2e933c2a04d8e307f568e7b38264/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.1_de9cb85964e95f744c3297bf712c6661d58f2460/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4ac5194dc182fb86a95dd67e3ee9906680287231/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.1_49a50b7a1cbb0bd4bef9a1837bf98e21782710ee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.2.1_de9cb85964e95f744c3297bf712c6661d58f2460.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6c74dab42788b458960618238f338d324b6f0656">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.2.1_856454300a6b65e9dd37a0d3f0c8ac7af86b4407.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.1_46abc21ed2cfeee73f619734629835d4e61dec11/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.2.1_46abc21ed2cfeee73f619734629835d4e61dec11.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.1_49a50b7a1cbb0bd4bef9a1837bf98e21782710ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6c74dab42788b458960618238f338d324b6f0656">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.1_856454300a6b65e9dd37a0d3f0c8ac7af86b4407/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.1_d193cd5c51804871a1324ad56a0d87b8a664803f/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_147a56cb71fef3d92217d3bb31a6ec341a070ce3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.2.1_ac72ec09234c0a8fa47d2872d2e4c5e0af14d4fb.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.1_ac72ec09234c0a8fa47d2872d2e4c5e0af14d4fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_388e1c12b68e7bd12d658d27677164cea2b4dd63.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_c84cbd6c89be3f8881a220d91fede18d317ffc59/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.1_e10762103225c3fd82c098b60440da21a3ef0498.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.1_e978f08475592122e0efc29ce6add2bd67e54aec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6f133da5bb1a4ff81c14d0f631019646f4c1a35c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.1_88d1527bf116db0395a412fd5a24e3eb5a3516d4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_388e1c12b68e7bd12d658d27677164cea2b4dd63/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_e10762103225c3fd82c098b60440da21a3ef0498/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_82140f1f63d371140ccdf24de3ed26edf5a336ef/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8a89670340993aac15d8d3f8cf7131493adec051/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8a89670340993aac15d8d3f8cf7131493adec051.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_087eb99fdb4b3a17e798af14924aca7f50b07fcf.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_82140f1f63d371140ccdf24de3ed26edf5a336ef/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/src/main/java/com/lib/beyondar-googlemap-plugin-v0.9.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ab763928a3a6743d6d0677cea065d171efb40b7a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/2/beyondar-googlemap-plugin-v0.9.0_4d813b22370ecb590526bbffeb5e9e4f2b21750f/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_82140f1f63d371140ccdf24de3ed26edf5a336ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/src/main/java/com/lib/beyondar-googlemap-plugin-v0.9.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ab763928a3a6743d6d0677cea065d171efb40b7a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/beyondar-googlemap-plugin-v0.9.0_4d813b22370ecb590526bbffeb5e9e4f2b21750f.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="12032271e6be735e811ad529cb08ff066c381640">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.1_fd071532d3750d28daa96506fbeb5eec35f6e253/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.1_9dc05d3c8c58b4997fe18c523d65176c1fa30f7f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8806034dbdf8c70150e9bdaf38a15f481dfbc6db/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_33f57e967eebf404f1b310e5ce359cdc283352c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.1_ac72ec09234c0a8fa47d2872d2e4c5e0af14d4fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.1_bb8b9abc8c44d4c3c43614fbe546985c3daa495c/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.1_9dc05d3c8c58b4997fe18c523d65176c1fa30f7f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_10779b3529ef5ad59a2d754e0fb5ffa04b421ed0.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_10779b3529ef5ad59a2d754e0fb5ffa04b421ed0/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_c84cbd6c89be3f8881a220d91fede18d317ffc59.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.1_3d85dc2e3b37f6d6d83e16f8147af297ba0d1870/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.1_2c8d4a9138766539d002c2391b8981039194b0ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.1_8a9db1467a0c2ef75385bba873652e27172eb743/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_c84cbd6c89be3f8881a220d91fede18d317ffc59/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.1_8a9db1467a0c2ef75385bba873652e27172eb743.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4e684205744f814a73b7752545e0661330415c9e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.1_441259f9dff3e2e0cc861fb7e2afe7b897f67d4c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_087eb99fdb4b3a17e798af14924aca7f50b07fcf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_087eb99fdb4b3a17e798af14924aca7f50b07fcf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8a89670340993aac15d8d3f8cf7131493adec051/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4e684205744f814a73b7752545e0661330415c9e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.1_441259f9dff3e2e0cc861fb7e2afe7b897f67d4c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.1_598d979f1352384772a9b1aa3d2ec9aa85591a31/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8806034dbdf8c70150e9bdaf38a15f481dfbc6db/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="12032271e6be735e811ad529cb08ff066c381640">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.2.1_fd071532d3750d28daa96506fbeb5eec35f6e253.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_8806034dbdf8c70150e9bdaf38a15f481dfbc6db.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="12032271e6be735e811ad529cb08ff066c381640">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.1_fd071532d3750d28daa96506fbeb5eec35f6e253/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.1_6ddc9c344c8d1cb5471d262690a6d8526f2d3d96/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.1_33f57e967eebf404f1b310e5ce359cdc283352c1.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.1_591646bb8c7d95c172e98fb5135a73112ea85002/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.1_bb8b9abc8c44d4c3c43614fbe546985c3daa495c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.1_ba3737ef3cd00d4999a60d73be75d5f8985ae831/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_33f57e967eebf404f1b310e5ce359cdc283352c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.1_bb8b9abc8c44d4c3c43614fbe546985c3daa495c/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.1_598d979f1352384772a9b1aa3d2ec9aa85591a31.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_a500ae2a767435e8b198532a41a5fc48a2c447ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.2.1_2c8d4a9138766539d002c2391b8981039194b0ea.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_10779b3529ef5ad59a2d754e0fb5ffa04b421ed0/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9961218e3430284124381b86497753d925579575.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="cce5792fa30ee8520620f298bf920309423b180f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.1_2ff869470254cb297eadeb93b73790ed49319b2e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.1_2c8d4a9138766539d002c2391b8981039194b0ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6d8e6d5c2e1f3dea328bb3249f8dbc93b3f9dbd7.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9961218e3430284124381b86497753d925579575/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.1_3d85dc2e3b37f6d6d83e16f8147af297ba0d1870.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_577040724dc13f1c8069d74a86dd790f0e534aac.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.1_3d85dc2e3b37f6d6d83e16f8147af297ba0d1870/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.1_05fff2b43b416c37133760e798290c877c0862a0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0e9c82bbcd97f791308f744b776f08f3e323e960/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.2.1_ad7556b1e0dbd44f60284022e05bd4e468021333.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.1_0a00064dd4cb7501b123f3c9df14c13c8e055a42/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.1_8a9db1467a0c2ef75385bba873652e27172eb743/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_8269f269fd53576ee9341ba2da5edf6f3023307d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.1_ad7556b1e0dbd44f60284022e05bd4e468021333/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_577040724dc13f1c8069d74a86dd790f0e534aac/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.1_05fff2b43b416c37133760e798290c877c0862a0.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="44098e691b36776973374ac03afe0225b17f8a74">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.1_46b14975e7a4ac5905a144c7113d1431a6589f4c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_eaeff52e81c76844c09894564d02a1267cf85f10/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="979e545870b7d885c9736d02ac958848092c046a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ae688cdaeff7ce564c71ccf385b81701e3ab64bf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.1_6ddc9c344c8d1cb5471d262690a6d8526f2d3d96/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0e9c82bbcd97f791308f744b776f08f3e323e960/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.2.1_6ddc9c344c8d1cb5471d262690a6d8526f2d3d96.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bb004ea36f8802bad30000e286c177691740a322">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.1_614b61ea3ed9dc68e6726db7897a68432249740d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d8e6d5c2e1f3dea328bb3249f8dbc93b3f9dbd7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.1_58bd9bd325e2b2168cebe9230a720151a44b2aa5/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.2.1_ba3737ef3cd00d4999a60d73be75d5f8985ae831.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.1_ba3737ef3cd00d4999a60d73be75d5f8985ae831/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_e10762103225c3fd82c098b60440da21a3ef0498/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.1_a500ae2a767435e8b198532a41a5fc48a2c447ed.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9961218e3430284124381b86497753d925579575/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_388e1c12b68e7bd12d658d27677164cea2b4dd63/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.1_82ea3fd381d97f86bab2a3e04a71a9ba443c02e7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.1_4f77d14d12fb0c3698868e15dd36c8cbfca0c831/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d8e6d5c2e1f3dea328bb3249f8dbc93b3f9dbd7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bb004ea36f8802bad30000e286c177691740a322">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.1_614b61ea3ed9dc68e6726db7897a68432249740d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f2468ec2b5c57be682db02d782797226ad2631b0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.1_ad7556b1e0dbd44f60284022e05bd4e468021333/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_f2468ec2b5c57be682db02d782797226ad2631b0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.2.1_0a00064dd4cb7501b123f3c9df14c13c8e055a42.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.1_0a00064dd4cb7501b123f3c9df14c13c8e055a42/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="cce5792fa30ee8520620f298bf920309423b180f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.1_2ff869470254cb297eadeb93b73790ed49319b2e/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0e9c82bbcd97f791308f744b776f08f3e323e960.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="cce5792fa30ee8520620f298bf920309423b180f">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.2.1_2ff869470254cb297eadeb93b73790ed49319b2e.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_577040724dc13f1c8069d74a86dd790f0e534aac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_a500ae2a767435e8b198532a41a5fc48a2c447ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.2.1_82ea3fd381d97f86bab2a3e04a71a9ba443c02e7.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.1_b53b5c2b8a46a4fb5042560428ac4b7fdb454182/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="44098e691b36776973374ac03afe0225b17f8a74">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.2.1_46b14975e7a4ac5905a144c7113d1431a6589f4c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="15395020fa950abbd708853b24ee07378fe310b3">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb84ce57aedb961927822b1c41d6e7de6c563e1a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="44098e691b36776973374ac03afe0225b17f8a74">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.1_46b14975e7a4ac5905a144c7113d1431a6589f4c/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bb004ea36f8802bad30000e286c177691740a322">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.1_614b61ea3ed9dc68e6726db7897a68432249740d.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.1_4f77d14d12fb0c3698868e15dd36c8cbfca0c831/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.1_58bd9bd325e2b2168cebe9230a720151a44b2aa5.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/src/main/java/com/lib/beyondar-googlemap-plugin-v0.9.0.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/src/main/java/com/lib/beyondar-googlemap-plugin-v0.9.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ab763928a3a6743d6d0677cea065d171efb40b7a">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/2/beyondar-googlemap-plugin-v0.9.0_4d813b22370ecb590526bbffeb5e9e4f2b21750f/classes.dex" />
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/2/beyondar-googlemap-plugin-v0.9.0_934575d47922931291199d73643fdecbb1b68fa5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.1_111cf7c7e66a3e49894093b9533230cb17cf8c33/classes.dex" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a10f248f5fc1b202f52faa0ec07ac49b5d18ad5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.1_a69cb02c4fbe6070d45da2e566f304a875eb6446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.1_f88662e841b7b78418e6cc7384936790d377dcb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.1_a94f69819076a67ffc114eb7b6ac705dfd67319d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.1_cb466b6afa4589a0efe5ba3903f486fbd514b7e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.1_58bd9bd325e2b2168cebe9230a720151a44b2aa5/classes.dex" />
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.1_18b2ffd9248e3f739483ea7fc66d2c32f0326cde/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.1_9dc05d3c8c58b4997fe18c523d65176c1fa30f7f/classes.dex" />
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_d6b53aae700dc25b4e8683e30b999deb33e4239d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.1_82ea3fd381d97f86bab2a3e04a71a9ba443c02e7/classes.dex" />
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.1_d02b848b0b2ef55d44db4b9cd3303464e2413a16/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.1_9113f452aa9d7f0a50a0ba0b90facf427d05fb5e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="888983f51cf34f57a93ff16832552f2f15937212">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.1_977529e2ece0f3095799feffddb76dcca04b0258/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.1_9113f452aa9d7f0a50a0ba0b90facf427d05fb5e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="888983f51cf34f57a93ff16832552f2f15937212">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.1_977529e2ece0f3095799feffddb76dcca04b0258.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.1_d193cd5c51804871a1324ad56a0d87b8a664803f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c51496678ddffbd68543ee43cc2da6db4c6ced0d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4ac5194dc182fb86a95dd67e3ee9906680287231/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4ac5194dc182fb86a95dd67e3ee9906680287231.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.2.1_2a24cdf0517f2e933c2a04d8e307f568e7b38264.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="6c74dab42788b458960618238f338d324b6f0656">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.1_856454300a6b65e9dd37a0d3f0c8ac7af86b4407/classes.dex" />
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_eb7cfc0441cbbe55ff093db8d0ca6e3506b282d7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.1/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.1_111cf7c7e66a3e49894093b9533230cb17cf8c33/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.2.1_111cf7c7e66a3e49894093b9533230cb17cf8c33.jar" />
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_39a25739119f6aba2014d0ddee0bbe1a0ca39757/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.1_9872c76bfdfe1d57b6e6286b3aecbf6dca564822/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.1_de9cb85964e95f744c3297bf712c6661d58f2460/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.2.1_b53b5c2b8a46a4fb5042560428ac4b7fdb454182.jar" />
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.1_8c7733777f363fce0ca07f75ef0407d3b11de841/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f2468ec2b5c57be682db02d782797226ad2631b0/classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6902ae666248b025e1fffd9bc33e052553186a37/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.1/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.1_2a24cdf0517f2e933c2a04d8e307f568e7b38264/classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4664b10512be40b566473e7b15322b93e1537dc6/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.1_87864ad3a44f34eefc7416bf27cfa18bafe40c1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.1_cdda7f45ccca02464b566d7f87b74d9327720c8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.1_de1a6a9e3b084ffe36b7dfb8651d57974ce2544d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.1_9588051a482e261e042b52e879075067e02ee5a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_bf95f9ecbce4a4538717bba0571f7e7130c45ce3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_73975d8351a5dea825a56d21bc039030af16f555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.1_068971608bf5ff06bdb91996ce0548d3d26c81e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.1_e6dcd3f29cc93fbdf9a7c095e480b026d6fc1973/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_950b17005a9636f7aeee2f4fee0b32e73b11beee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="efae381df589f3d4977c346c8a980f030315bb8b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.1_49a50b7a1cbb0bd4bef9a1837bf98e21782710ee/classes.dex" />
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.1_390387d5d4ffc48a729c826423c8abbf697f9a10/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_147a56cb71fef3d92217d3bb31a6ec341a070ce3/classes.dex" />
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.1_beb642aa8a54bafcacee959f9631307e09d470fa/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.1_b53b5c2b8a46a4fb5042560428ac4b7fdb454182/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.2.1_d193cd5c51804871a1324ad56a0d87b8a664803f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_c51496678ddffbd68543ee43cc2da6db4c6ced0d.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.1_a91507e0b6ea1ed77aa5f887b2cc011061a91542/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.2.1_4f77d14d12fb0c3698868e15dd36c8cbfca0c831.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_2b43a44a49cfd550431af6de9a4507bedbbe1ab9.jar" />
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.1_8078b0f64a4efa9000814778ba7dbba4c052c336/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.1_9113f452aa9d7f0a50a0ba0b90facf427d05fb5e/classes.dex" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_219c468a9cb419cf0fc779e090138b2a0d3a08e0/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2b43a44a49cfd550431af6de9a4507bedbbe1ab9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.1_d6aec2faabf73ad6599e0121de1b4c8790c66284/classes.dex" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_fed63d93bddd445bd420edc427189edccb5c3f4b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.1_46abc21ed2cfeee73f619734629835d4e61dec11/classes.dex" />
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.1_4160eb1b38f3a2c782c34bd3e1857c497fb0d397/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.1_caa13149a1c08c4c0911e7bc66906e482dc0156e/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.1_caa13149a1c08c4c0911e7bc66906e482dc0156e.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.1_37d7e4153b5ba92e635266e4cbe9c976afa32f2c/classes.dex" />
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.1_1ae27a95b8245037ef1c401162d01a42a33598a9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_3f32013fa318e6ad4cb2a836ca5039f5349d71a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a0ae6ff49e97c28e27d92a3658ca3edb45a29e2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.1_99f666044f0f2a003fca21c52ba9d1dc56764657/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_8269f269fd53576ee9341ba2da5edf6f3023307d/classes.dex" />
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_9a6c6bdee7ae1dc4364527ff01c838953954f747/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.1_05fff2b43b416c37133760e798290c877c0862a0/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.1_8269f269fd53576ee9341ba2da5edf6f3023307d.jar" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ad895c5d4799094a127e0b2efcf30dee2a3ddfbc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="888983f51cf34f57a93ff16832552f2f15937212">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.1_977529e2ece0f3095799feffddb76dcca04b0258/classes.dex" />
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_97503974b471ca08b0cf67850f0e6a08da7132bc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.1_d4136c6be2d4069562e8c8e834bc79fbf7db2062/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.1_a91507e0b6ea1ed77aa5f887b2cc011061a91542/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.1_eaeff52e81c76844c09894564d02a1267cf85f10.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.1_37d7e4153b5ba92e635266e4cbe9c976afa32f2c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.1_88c4abe74b521986e404c486c22aad064e0b3f9c/classes.dex" />
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.1_568da92c8217058546eb7290808546cd24451513/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.1_2d0430224b790f2821a455972a6e4b65207c13d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="074b0540a8b23432dcd99e0183d0af01f71842c0">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2d9440e0741cf2740505cd54b5237f142e66d8a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.1_63e145177372435c51f7b1ca64f9717a55fc8368/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.1_ee0c801adfb1bbf76562f3371df3d1aa448c00a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.1_674237c59fc1788e38a3426a2b9e382f7429706f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.1_3984e3c8116f240be8b7679295d771d81c52b9b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.1_806ec184dafb0368eea502335eee468436c32a8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.1_020ed584f6609e166ef4c3d07bcace549d998007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_6201daa66d958a79f7f153ba08c1feb2a13da615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.1_894aa358651921747766c3537e97af20d35895e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b88e7b8e4745782f18131e4022e0bcb77cb0e126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5f3d14ef4e3d9967a127b7aaa092e1b45667d1a">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb8b353a733e6dab2494aca5773c41aa12209709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_c8781ded1df04b602cd25c5a1b202d68500393bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.1_dffcd1e821225c8778bae2b59d0c5234a18dd09d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.1_f47c5cb83152f149aa0d1c7f37d7715810674b4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_4b67322abce2632278ae8838472c14279c620a37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.1_46f2c27f7dab393ccb233a1b36fa5fa2aba2442b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.1_20164738be4779d747f6e32c56fe1315a750bd36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.1_56cfbbed0e5f016fe8d3c305cee5f8f7461a0fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.1_c15269d1f2985a8f61f37b6fd24d269f5210b301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="bb115a110992b254f767f337da233071f6f940b8">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.1_fc659c4004c782a70eefd3443e3da1ed2949b2a0/classes.dex" />
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.1_f97e7eb8c0ed036c831901e0ee844ca30b3c8ae9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.1_7c9f989be04ebeb7604602863087ad5c0519f989/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.1_3bef098f17514a2b45c6928eb7a10fca19b69211/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.1_44aafee6a26a91584d81da96898b713c9b007879/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_9127661e00045ad735e93e2958f9e8adf0b44f5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a60d252dcf4a491989c8ec2307d13ba4ae5b3884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_cad2915794438bdb96f83c06bfbb93368cdc2cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_0f6a93411f071e0e5e568001aa39286ae4d8f8b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_049f57a555894508ca25844afa06cad75f5391fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c51496678ddffbd68543ee43cc2da6db4c6ced0d/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.2.1_a91507e0b6ea1ed77aa5f887b2cc011061a91542.jar" />
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_2c4942ea4c1c6678965bec47ed7646bc2e508442/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
-        <dex dex="/Users/zhangsikai/GitHub/AgAr-AugmentedReality/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_eaeff52e81c76844c09894564d02a1267cf85f10/classes.dex" />
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.1_21ae5c3e3ca0e548ad87e646ac4e2142a3c87864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.1_2054c829c6531f57d85e7cf825e9e35f15a50e2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.1_1e3976ee20b4f96c3399071816d839a4212fb7a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/zhangsikai/GitHub/cs667finalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.1_ce514a97ccd912eaa66d5338c26ae5222f63fe14/classes.dex" />
     </item>
 
 </items>
